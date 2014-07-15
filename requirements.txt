@@ -8,5 +8,4 @@ itsdangerous==0.24
 py==1.4.21
 pytest==2.5.2
 pytest-cov==1.7.0
-test-pkg==0.0
 wsgiref==0.1.2
