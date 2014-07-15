@@ -1,7 +1,7 @@
-def test_views_return():
+def test_index():
     import views
     assert views.index() == 'Hello world'
 
 def test_goodbye():
-    import views()
+    import views
     assert views.goodbye() == 'Goodbye world'

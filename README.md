@@ -38,3 +38,8 @@ We've got a minimal test for a minimal app. Run it:
     app/test_views.py .
 
     =========================== 1 passed in 0.08 seconds ===========================
+
+Current DroneIO status
+----------------------
+
+[![Build Status](https://drone.io/github.com/shentonfreude/ciflask/status.png)](https://drone.io/github.com/shentonfreude/ciflask/latest)

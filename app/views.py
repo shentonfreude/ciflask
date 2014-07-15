@@ -5,5 +5,5 @@ from app import app
 def index():
     return 'Hello world'
 
-def goodby():
-    return 'Goodby world'
+def goodbye():
+    return 'Goodbye world'
